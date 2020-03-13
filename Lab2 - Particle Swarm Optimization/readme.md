@@ -1,5 +1,5 @@
-# Partical Swarm Optimization  
-Simple partical swarm optimization implementation on Java with 2D graph plotter. Implements 3 test functions (McCormick, Michalewicz and Schwefel).
+# Particle Swarm Optimization  
+Simple particle swarm optimization implementation on Java with 2D graph plotter. Implements 3 test functions (McCormick, Michalewicz and Schwefel).
 
 ### Example using McCormick test function
 **Parameters**
